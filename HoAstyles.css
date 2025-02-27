@@ -1,0 +1,17 @@
+* {
+  background-color:blue; 
+}
+#firstp {
+    color:maroon;
+    background-color:gold;
+}
+ 
+.maroontext {
+      color:maroon;
+    background-color:gold;
+}
+h4.maroonText{
+   border: 3px solid #1C6EA4;
+}
+h1 {
+}
